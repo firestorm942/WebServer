@@ -3,11 +3,11 @@
   <component name="JsonSchemaMappingsProjectConfiguration">
     <state>
       <map>
-        <entry key="bukkit-plugin">
+        <entry key="IntelliJ Theme Metadata">
           <value>
             <SchemaInfo>
-              <option name="name" value="bukkit-plugin" />
-              <option name="relativePathToSchema" value="http://json.schemastore.org/bukkit-plugin" />
+              <option name="name" value="IntelliJ Theme Metadata" />
+              <option name="relativePathToSchema" value="$APPLICATION_HOME_DIR$/plugins/devkit/lib/devkit.jar!/schemes/themeMetadata.schema.json" />
               <option name="applicationDefined" value="true" />
               <option name="patterns">
                 <list>
