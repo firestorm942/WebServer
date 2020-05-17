@@ -95,7 +95,7 @@ public class Main extends JavaPlugin {
                     // TODO Auto-generated catch block
                     e.printStackTrace();
                 }
-            } else {// default doesnt exist. Shutting down.
+            } else {// default doesn't exist. Shutting down.
                 logCon(ChatColor.DARK_RED + "Plugin disabled! NO VALUE WAS FOUND FOR LISTENING PORT!");
                 Bukkit.getPluginManager().disablePlugin(this);
                 return;
